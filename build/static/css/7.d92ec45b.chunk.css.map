@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/AnimeCarousel/AnimeCarousel.css"],"names":[],"mappings":"AAAA,aACE,eAAiB,CACjB,qBACF,CAEA,YACE,eACF","file":"7.d92ec45b.chunk.css","sourcesContent":[".slick-slide {\n  padding: 0 0.5rem;\n  box-sizing: border-box;\n}\n\n.slick-list {\n  margin: 0 -0.5rem;\n}\n"]}
